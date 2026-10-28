@@ -1,0 +1,6 @@
+{
+  "name": "Kesan Jika Aliran Air Terganggu - Animasi Pendidikan 3D",
+  "description": "Video animasi pendidikan 3D interaktif yang menerangkan kesan jika aliran dan kitaran air semula jadi terganggu untuk murid sekolah rendah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
